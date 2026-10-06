@@ -1,2 +1,3 @@
 style types
 
+render types
